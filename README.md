@@ -1,4 +1,4 @@
-# cleanReact.sh
+# reactClean.sh
 
 This bash script quickly creates a clean React project using Vite by clearing the contents of some key source files and starting the development server.
 
@@ -15,4 +15,4 @@ This bash script quickly creates a clean React project using Vite by clearing th
 ## Usage
 
 ```bash
-./cleanReact.sh [project_name]
+./reactClean.sh [project_name]
